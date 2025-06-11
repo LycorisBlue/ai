@@ -1,0 +1,19 @@
+# API et Intelligence Artificielle
+google-generativeai>=0.3.0
+requests>=2.31.0
+
+# Traitement d'images
+Pillow>=10.0.0
+opencv-python>=4.8.0
+imageio>=2.31.0
+
+# Traitement de données
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Robustesse et logging
+tenacity>=8.2.0
+tqdm>=4.66.0
+
+# Utilitaires
+python-dotenv>=1.0.0

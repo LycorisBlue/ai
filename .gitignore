@@ -142,7 +142,7 @@ logs/
 *~
 
 # Dossier assets (ajouté selon votre demande)
-assets/
+data/
 
 # Configuration locale
 config.local.py
